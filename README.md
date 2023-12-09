@@ -19,7 +19,7 @@ To use Directory Helper, follow these steps:
    - Run `dotnet build -c Release` to build the tool.
 
 3. **Installation of the Tool:**
-   - Run `dotnet tool install --global --add-source ./path-to-your-built-tool DirectoryHelper` to install the tool globally.
+   - Run `dotnet tool install --global --add-source ./nupkg DirectoryHelper` to install the tool globally.
 
 ## Usage
 
